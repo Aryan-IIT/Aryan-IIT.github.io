@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: ../layouts/Layout.astro
----
+--- -->
 <!-- Markdown Preview - https://dillinger.io/ -->
-
+<!-- 
 <p></p>
 <h3><b>Data Science Intern at Mobile Premier League (MPL)</b>
 </h3>
@@ -34,4 +34,35 @@ May 2024 - July 2024. <br>
 Developed a production-ready RAG-based conversational agent for real-time query resolution of NPCI circulars and
 company documents, improving information accessibility. Multiple LLMs (Llama & Mistral) were evaluated and
 benchmarked on AWS Bedrock for optimal information retrieval and response.
-</p>
+</p> -->
+---
+layout: ../layouts/Layout.astro
+title: work experience
+---
+
+### **Data Science Intern · Mobile Premier League (MPL)**
+*May 2025 – August 2025*
+
+- Built an XGBoost-based referral model improving recall and user engagement through referrals.  
+- Managed a real-time pipeline for **7M+ daily users**, publishing referral triggers to Kafka.  
+- Designed and executed large-scale A/B tests (500K+ users) using stratified sampling to optimize retention.
+
+---
+
+### **Software Intern (AI) · Pre-seed Startup**
+*December 2024 – March 2025*
+
+- Developed collaboration and observability tools for **agentic frameworks**.  
+- Contributed to YC Spring 2025 application; led development of the core Python module.
+
+---
+
+### **Software Intern · 86400 (formerly Mobileware Technologies)**
+*May 2024 – July 2024*
+
+- Built a **RAG-based conversational agent** for real-time query resolution of NPCI circulars and company docs.  
+- Evaluated multiple LLMs (Llama, Mistral) and benchmarked on **AWS Bedrock** for retrieval and response optimization.
+
+---
+
+[home](/)
