@@ -17,4 +17,4 @@ title: aryan solanki
 
 [work experience](/work_exp)
 
-[essays and more](https://aryanoutwits.notion.site/Personal-website-dcea590ec3cd4bdc9a3e3ff49df2c8c0)
+<!-- [essays and more](https://aryanoutwits.notion.site/Personal-website-dcea590ec3cd4bdc9a3e3ff49df2c8c0) -->
